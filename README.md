@@ -1,6 +1,6 @@
 # Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
 
-Our cllient, Artemis Financial, is a consulting company that develops individualized financial plans for their customers. Their financial plans include savings, retirement, investments, and insurance. Artemis Financial wants to modernize their operations. As a crucial part of the success of their custom software, they also want to use the most current and effective software security. Artemis Financial has a RESTful web application programming interface (API). They are seeking my company, Global Rain’s, expertise about how to protect the organization from external threats.
+My client, Artemis Financial, is a consulting company that develops individualized financial plans for their customers. Their financial plans include savings, retirement, investments, and insurance. Artemis Financial wants to modernize their operations. As a crucial part of the success of their custom software, they also want to use the most current and effective software security. Artemis Financial has a RESTful web application programming interface (API). They are seeking my company, Global Rain’s, expertise about how to protect the organization from external threats.
 
 # What did you do very well when you found your client’s software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing?
 
