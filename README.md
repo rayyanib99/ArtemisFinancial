@@ -12,16 +12,16 @@ What I found challenging was the depndency-check report. Initially, I found it t
 
 # How did you increase layers of security? In the future, what would you use to assess vulnerabilities and decide which mitigation techniques to use?
 
-I used static testing or the dependency plugin as well as changed the code using encryption mechanisms and ciphers to encrypt the data.
+I used static testing and the dependency plugin as well as changed the code using encryption mechanisms and ciphers to encrypt the data.
 
 # How did you make certain the code and software application were functional and secure? After refactoring the code, how did you check to see whether you introduced new vulnerabilities?
 
-I maven clened, installed, and then ran the code multiple times after refactoring. Also, I supressed false positives as well and used secure HTTPS. Lastly, I kept checking the dependency-check report after every run until the refactored code was successful.
+I Maven cleaned, installed, and then ran the code multiple times after refactoring. Also, I supressed false positives as well and used secure HTTPS. Lastly, I kept checking the dependency-check report after every run until the refactored code was successful.
 
 # What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?
 
-I used the maven dependency for static testing as well as the java keytool. Besides that, I used the Eclispse for future coding assignements or work that is a very common IDE in the coding world.
+I used the mMven dependency for static testing as well as the Java keytool. Besides that, I used the Eclipse for future coding assignments or work that is a very common IDE in the coding world.
 
 # Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
 
-I will dmeonstarted my technical writing skills through the two projects completed in this course. I will also show examples of the original and refactored code in Eclipse with the dependency-check report to show my skill in coding securely.
+I will demonstrate my technical writing skills through the two projects completed in this course. I will also show examples of the original and refactored code in Eclipse with the dependency-check report to show my skill in coding securely to future employers.
